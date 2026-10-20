@@ -91,17 +91,6 @@ Snippy stores your commands in:
 
 Back up or sync that file however you like. Delete it to reset Snippy to the starter entry.
 
-## Build from source
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-2. Open the `.xcodeproj` in Xcode.
-3. Select the **Snippy** scheme and run (`⌘R`).
-
-To run as a menu-bar-only app, make sure `LSUIElement` is set to `YES` in the target's Info tab.
 
 ## Uninstall
 

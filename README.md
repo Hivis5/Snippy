@@ -109,9 +109,6 @@ To run as a menu-bar-only app, make sure `LSUIElement` is set to `YES` in the ta
 2. Delete `Snippy.app` from Applications.
 3. Optional: delete `~/Library/Application Support/QuickCmd` to remove your data.
 
-## License
-
-Add your license here (for example, MIT).
 
 ---
 

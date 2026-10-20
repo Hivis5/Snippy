@@ -24,7 +24,7 @@ Snippy lives in your menu bar, opens as a popover, and lets you search, read, an
 
 ## Install (using the DMG)
 
-1. Go to the [**Releases**](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page and download `Snippy.dmg`.
+1. Go to the [**Releases**](https://github.com/Hivis5/Snippy/blob/main/Snippy.dmg) page and download `Snippy.dmg`.
 2. Double-click `Snippy.dmg` to open it.
 3. Drag **Snippy** into the **Applications** folder.
 4. Eject the disk image (optional).
